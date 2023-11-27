@@ -1,8 +1,8 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vikashkumar74.vikashkumar74" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+vikash kumar;" />
-</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Hi+There!+👋;+I'm+vikash+kumar;+software+engineer;" </p>
 
 
 ## About Me 
