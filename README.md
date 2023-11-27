@@ -37,8 +37,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <img width=390 src="https://github-readme-streak-stats-vikashkumar74.vercel.app/?user=vikashkumar74&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-vikashkumar74.vercel.app/api?username=vikashkumar74&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats vikashkumar74.vercel.app/?user=vikashkumar74&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats vikashkumar74.vercel.app/api?username=vikashkumar74&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vikashkumar74&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B">
 </p>
