@@ -28,10 +28,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,cpp,javascript,express,mongodb,nextjs" /><br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,cpp,javascript,express,mongodb,nextjs" />
 </div>
 <br><br>
-      <hr/>
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -39,10 +40,14 @@
   <img width=390 src="https://github-readme-streak-stats-vikashkumar74.vercel.app/?user=vikashkumar74&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-vikashkumar74.vercel.app/api?username=vikashkumar74&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-vikashkumar74.vercel.app/api/top-langs/?username=svikashkumar74&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-vikashkumar74.vercel.app/api/top-langs/?username=vikashkumar74&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<br><br>
+
+<br/><br/>
+
 <hr/>
+
+<br/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=4000&lines=Thanks+for+visit!+🤝;+shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab:" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Thanks+for+visit!+🤝;+shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab:" </p>
 
