@@ -46,5 +46,5 @@
 
 <br/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Thanks+for+visit!+🤝;++shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab:" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Thanks+for+visit!+🤝:" </p>
 
