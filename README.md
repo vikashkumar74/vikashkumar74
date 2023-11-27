@@ -1,6 +1,5 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vikashkumar74.vikashkumar74" />
-<h1 align="center">
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Hi+There!+👋;+I'm+vikash+kumar;+software+engineer;" </p>
 
@@ -44,7 +43,6 @@
 </div>
 <br><br>
 <hr/>
-<h3 aline="center">
-  <img src="https://readme-typing.svg.herokuapp.com/?font-Righteous&sizee=25&Center=true&width=500&height=70&duration=4000&lines=Thanks+for+visit!+🤝;+shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab+:)">
-</h3>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Thanks+for+visit!+🤝;+shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab+:" </p>
 
