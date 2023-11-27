@@ -29,7 +29,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,cpp,javascript,express,mongodb,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,cpp,javascript,express,mongodb" />
 </div>
 <br><br>
 <hr/>
@@ -37,10 +37,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <img width=390 src="https://github-readme-streak-stats-vikashkumar74.vercel.app/?user=vikashkumar74&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-vikashkumar74.vercel.app/api?username=vikashkumar74&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-vikashkumar74.vercel.app/api/top-langs/?username=vikashkumar74&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=vikashkumar74&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B">
 </p>
 
 <br/><br/>
