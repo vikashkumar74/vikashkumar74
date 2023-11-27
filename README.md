@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+vikash kumar;" />
 </h1>
 
-<div>
+
 ## About Me 
 *  👋 &nbsp; Hi there , I'm vikash kumar
 *  🌍 &nbsp; I'm from India
 *  🧠  &nbsp;I’m currently learning web Development
 *  🤝  I'm open to freelance work & collaborating on interesting projects
 
- </div>
+
 <div align="center"> 
   <a href="mailto:vikashpoddar437@gmail.com">
      <img src="https://img.shields.io/badge/-vikashpoddar437@gmail.com-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
