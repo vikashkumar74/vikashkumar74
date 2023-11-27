@@ -27,7 +27,7 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,cpp,javascript,express,mongodb,nextjs" /><br>
 </div>
 <br><br>
@@ -44,5 +44,5 @@
 <br><br>
 <hr/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Thanks+for+visit!+🤝;+shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab+:" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=Thanks+for+visit!+🤝;+shoot+me+a+message+on+Linkdin!;+I'm+always+down+to+collab:" </p>
 
