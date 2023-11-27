@@ -37,10 +37,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar74&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  alt="readme stats"  />
+  <img width=390 src="http://github-readme-streak-stats.herokuapp.com?user=vikashkumar74&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=vikashkumar74&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vikashkumar74&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B">
+
+   <br>
+    <img  width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar74&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  alt="readme stats"  />
 </p>
 
 <br/><br/>
